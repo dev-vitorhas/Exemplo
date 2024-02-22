@@ -1,3 +1,3 @@
 # Mouse
 
-![./computer-mouse.png](Mouse IMG)
+![mouse-img](computer-mouse.png)
